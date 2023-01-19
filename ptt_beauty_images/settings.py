@@ -62,7 +62,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-	    'https://django-ig-beauty-linebot-vercel.vercel.app/',
+	        'https://react-ptt-beauty.vercel.app',,
 	]
 
 ROOT_URLCONF = 'ptt_beauty_images.urls'
